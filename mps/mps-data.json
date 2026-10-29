@@ -1,0 +1,461 @@
+{
+    "rs165599": {
+        "onForwardStrand": true,
+        "phenotype": "COMT Activity",
+        "pathogenic": ["GG"],
+        "gene": "COMT"
+    },
+    "rs165722": {
+        "onForwardStrand": true,
+        "phenotype": "COMT Activity",
+        "pathogenic": ["CC"],
+        "gene": "COMT"
+    },
+    "rs4680": {
+        "phenotype": "COMT Activity",
+        "pathogenic": [],
+        "onForwardStrand": true,
+        "gene": "COMT"
+    },
+    "rs4633": {
+        "phenotype": "COMT Activity",
+        "pathogenic": ["TT", "CT"],
+        "onForwardStrand": true,
+        "gene": "COMT,MIR4761"
+    },
+    "rs165631": {
+        "phenotype": "COMT Activity",
+        "pathogenic": [],
+        "onForwardStrand": true,
+        "gene": "COMT",
+        "notes": "Perhaps slightly lower risk for breast cancer in BRCA1/2 mutation carriers"
+    },
+    "rs1801133": {
+        "phenotype": "COMT Activity",
+        "pathogenic": ["TT", "CT"],
+        "onForwardStrand": false,
+        "gene": "MTHFR"
+    },
+    "rs1801131": {
+        "phenotype": "COMT Activity",
+        "pathogenic": ["CC", "AC"],
+        "onForwardStrand": false,
+        "gene": "MTHFR"
+    },
+    "rs2236225": {
+        "phenotype": "COMT Activity",
+        "pathogenic": ["TT", "CT"],
+        "onForwardStrand": false,
+        "gene": "MTHFD1"
+    },
+    "rs1950902": {
+        "phenotype": "COMT Activity",
+        "pathogenic": ["CC"],
+        "onForwardStrand": false,
+        "gene": "MTHFD1"
+    },
+    "rs6922269": {
+        "phenotype": "COMT Activity",
+        "pathogenic": ["AA", "AG"],
+        "onForwardStrand": true,
+        "gene": "MTHFD1L"
+    },
+    "rs1802059": {
+        "phenotype": "COMT Activity",
+        "pathogenic": ["AA"],
+        "onForwardStrand": true,
+        "gene": "MTRR"
+    },
+    "rs651852": {
+        "phenotype": "COMT Activity",
+        "pathogenic": ["AG"],
+        "gene": "BHMT"
+    },
+    "rs1858830": {
+        "phenotype": "COMT Activity",
+        "pathogenic": ["CC", "CG"],
+        "gene": "MET"
+    },
+    "rs2237717": {
+        "phenotype": "COMT Activity",
+        "pathogenic": ["TT", "CT"],
+        "gene": "MET"
+    },
+    "rs2470152": {
+        "phenotype": "Estrogen Production - Aromatase",
+        "pathogenic": ["CC"],
+        "onForwardStrand": false,
+        "gene": "CYP19A1"
+    },
+    "rs4646": {
+        "phenotype": "Estrogen Production - Aromatase",
+        "pathogenic": ["CC"],
+        "onForwardStrand": true,
+        "gene": "CYP19A1"
+    },
+    "rs2470144": {
+        "phenotype": "Estrogen Production - Aromatase",
+        "pathogenic": ["GG"],
+        "onForwardStrand": false,
+        "gene": "CYP19A1",
+        "notes": "Aromatase #3 (Minor)"
+    },
+    "rs10046": {
+        "phenotype": "Estrogen Production - Aromatase",
+        "pathogenic": ["TT"],
+        "onForwardStrand": false,
+        "gene": "CYP19A1"
+    },
+    "rs2414096": {
+        "phenotype": "Estrogen Production - Aromatase",
+        "pathogenic": ["GG"],
+        "onForwardStrand": true,
+        "gene": "CYP19A1",
+        "notes": "PCOS"
+    },
+    "rs78310315": {
+        "phenotype": "Estrogen Production - Aromatase",
+        "pathogenic": ["CT"],
+        "onForwardStrand": true,
+        "gene": "CYP19A1"
+    },
+    "rs2747648": {
+        "phenotype": "Estrogen Receptor Alpha",
+        "pathogenic": ["CT", "CC"],
+        "gene": "ESR1"
+    },
+    "rs104893956": {
+        "phenotype": "Estrogen Receptor Alpha",
+        "pathogenic": ["CT"],
+        "onForwardStrand": true,
+        "gene": "ESR1"
+    },
+    "rs121913044": {
+        "phenotype": "Estrogen Receptor Alpha",
+        "pathogenic": ["AT"],
+        "onForwardStrand": true,
+        "gene": "ESR1"
+    },
+    "rs397509428": {
+        "phenotype": "Estrogen Receptor Alpha",
+        "pathogenic": ["GT"],
+        "onForwardStrand": true,
+        "gene": "ESR1"
+    },
+    "rs9340799": {
+        "phenotype": "Estrogen Receptor Alpha",
+        "pathogenic": ["GG"],
+        "onForwardStrand": true,
+        "gene": "ESR1"
+    },
+    "rs2881766": {
+        "phenotype": "Estrogen Receptor Alpha",
+        "pathogenic": ["GT", "TT"],
+        "onForwardStrand": true,
+        "gene": "ESR1"
+    },
+    "rs2295190": {
+        "phenotype": "Estrogen Receptor Alpha",
+        "pathogenic": ["GT", "TT"],
+        "onForwardStrand": true,
+        "gene": "ESR1"
+    },
+    "rs743572": {
+        "phenotype": "Congenital Adrenal Hyperplasia",
+        "pathogenic": ["GG"],
+        "onForwardStrand": true,
+        "gene": "CYP17A1",
+        "notes": "Fast version"
+    },
+    "i5005436": {
+        "phenotype": "Congenital Adrenal Hyperplasia",
+        "pathogenic": ["TT"],
+        "onForwardStrand": true,
+        "gene": "CYP21A2"
+    },
+    "rs151344503": {
+        "phenotype": "Congenital Adrenal Hyperplasia",
+        "pathogenic": ["AA"],
+        "onForwardStrand": true,
+        "gene": "CYP21A2,TNXB"
+    },
+    "rs201552310": {
+        "phenotype": "Congenital Adrenal Hyperplasia",
+        "pathogenic": ["AA"],
+        "onForwardStrand": true,
+        "gene": "CYP21A2"
+    },
+    "rs267606756": {
+        "phenotype": "Congenital Adrenal Hyperplasia",
+        "pathogenic": ["TT"],
+        "onForwardStrand": true,
+        "gene": "CYP21A2"
+    },
+    "rs267606757": {
+        "phenotype": "Congenital Adrenal Hyperplasia",
+        "pathogenic": ["CC"],
+        "onForwardStrand": true,
+        "gene": "CYP21A2"
+    },
+    "rs387906510": {
+        "phenotype": "Congenital Adrenal Hyperplasia",
+        "pathogenic": ["DD"],
+        "onForwardStrand": true,
+        "gene": "CYP21A2"
+    },
+    "rs397509367": {
+        "phenotype": "Congenital Adrenal Hyperplasia",
+        "pathogenic": ["CC"],
+        "onForwardStrand": true,
+        "gene": "CYP21A2,TNXB"
+    },
+    "rs6445": {
+        "phenotype": "Congenital Adrenal Hyperplasia",
+        "pathogenic": ["TT"],
+        "onForwardStrand": true,
+        "gene": "CYP21A2,TNXB"
+    },
+    "rs6467": {
+        "phenotype": "Congenital Adrenal Hyperplasia",
+        "pathogenic": ["CC"],
+        "onForwardStrand": false,
+        "gene": "CYP21A2"
+    },
+    "rs6471": {
+        "phenotype": "Congenital Adrenal Hyperplasia",
+        "pathogenic": ["TT"],
+        "onForwardStrand": true,
+        "gene": "CYP21A2"
+    },
+    "rs6472": {
+        "phenotype": "Congenital Adrenal Hyperplasia",
+        "pathogenic": ["CC"],
+        "onForwardStrand": true,
+        "gene": "CYP21A2"
+    },
+    "rs6475": {
+        "phenotype": "Congenital Adrenal Hyperplasia",
+        "pathogenic": ["AA"],
+        "onForwardStrand": true,
+        "gene": "CYP21A2"
+    },
+    "rs6476": {
+        "phenotype": "Congenital Adrenal Hyperplasia",
+        "pathogenic": ["AA"],
+        "onForwardStrand": true,
+        "gene": "CYP21A2"
+    },
+    "rs7755898": {
+        "phenotype": "Congenital Adrenal Hyperplasia",
+        "pathogenic": ["TT"],
+        "onForwardStrand": true,
+        "gene": "CYP21A2"
+    },
+    "rs7769409": {
+        "phenotype": "Congenital Adrenal Hyperplasia",
+        "pathogenic": ["TT"],
+        "onForwardStrand": true,
+        "gene": "CYP21A2"
+    },
+    "rs9378251": {
+        "phenotype": "Congenital Adrenal Hyperplasia",
+        "pathogenic": ["TT"],
+        "onForwardStrand": true,
+        "gene": "CYP21A2"
+    },
+    "rs151344504": {
+        "phenotype": "Congenital Adrenal Hyperplasia",
+        "pathogenic": ["AA"],
+        "onForwardStrand": true,
+        "gene": "CYP21A2,TNXB"
+    },
+    "rs151344505": {
+        "phenotype": "Congenital Adrenal Hyperplasia",
+        "pathogenic": ["AA"],
+        "onForwardStrand": true,
+        "gene": "CYP21A2"
+    },
+    "rs151344506": {
+        "phenotype": "Congenital Adrenal Hyperplasia",
+        "pathogenic": ["AA"],
+        "onForwardStrand": true,
+        "gene": "CYP21A2,TNXB"
+    },
+    "rs397515532": {
+        "phenotype": "Congenital Adrenal Hyperplasia",
+        "pathogenic": ["TT"],
+        "onForwardStrand": true,
+        "gene": "CYP21A2"
+    },
+    "rs72552754": {
+        "phenotype": "Congenital Adrenal Hyperplasia",
+        "pathogenic": ["AA"],
+        "onForwardStrand": true,
+        "gene": "CYP21A2"
+    },
+    "rs72552756": {
+        "phenotype": "Congenital Adrenal Hyperplasia",
+        "pathogenic": ["CC"],
+        "onForwardStrand": true,
+        "gene": "CYP21A2,TNXB"
+    },
+    "rs72552757": {
+        "phenotype": "Congenital Adrenal Hyperplasia",
+        "pathogenic": ["TT"],
+        "onForwardStrand": true,
+        "gene": "CYP21A2,TNXB"
+    },
+    "rs72552758": {
+        "phenotype": "Congenital Adrenal Hyperplasia",
+        "pathogenic": ["AA"],
+        "onForwardStrand": true,
+        "gene": "CYP21A2,TNXB"
+    },
+    "rs9378252": {
+        "phenotype": "Congenital Adrenal Hyperplasia",
+        "pathogenic": ["TT"],
+        "onForwardStrand": true,
+        "gene": "CYP21A2"
+    },
+    "rs12086634": {
+        "phenotype": "Congenital Adrenal Hyperplasia",
+        "pathogenic": ["GG"],
+        "onForwardStrand": true,
+        "gene": "HSD11B1"
+    },
+    "rs28934586": {
+        "phenotype": "Congenital Adrenal Hyperplasia",
+        "pathogenic": ["GG"],
+        "onForwardStrand": true,
+        "gene": "CYP11B1"
+    },
+    "rs201103987": {
+        "phenotype": "Congenital Adrenal Hyperplasia",
+        "pathogenic": ["AA"],
+        "onForwardStrand": true,
+        "gene": "CYP11B1"
+    },
+    "rs2282679": {
+        "phenotype": "Vitamin D Deficiency",
+        "pathogenic": ["AC", "CC"],
+        "gene": "GC"
+    },
+    "rs12785878": {
+        "phenotype": "Vitamin D Deficiency",
+        "pathogenic": ["GT", "TT"],
+        "gene": "NADSYN1"
+    },
+    "rs10741657": {
+        "phenotype": "Vitamin D Deficiency",
+        "pathogenic": ["GG"],
+        "gene": "CYP2R1 LOC107984314"
+    },
+    "rs1544410": {
+        "phenotype": "Vitamin D Deficiency",
+        "pathogenic": ["AA"],
+        "gene": "VDR"
+    },
+    "rs104893629": {
+        "phenotype": "Estrogen Metabolism - 1A Dominant",
+        "pathogenic": ["AA", "AT"],
+        "gene": "CYP1B1"
+    },
+    "rs1056827": {
+        "phenotype": "Estrogen Metabolism - 1A Dominant",
+        "pathogenic": ["GT", "TT"],
+        "gene": "CYP1B1"
+    },
+    "rs1056836": {
+        "phenotype": "Estrogen Metabolism - 1A Dominant",
+        "pathogenic": ["CG"],
+        "gene": "CYP1B1"
+    },
+    "rs1800440": {
+        "phenotype": "Estrogen Metabolism - 1A Dominant",
+        "pathogenic": ["AG", "GG"],
+        "gene": "CYP1B1"
+    },
+    "rs201824781": {
+        "phenotype": "Estrogen Metabolism - 1A Dominant",
+        "pathogenic": ["AG", "GG"],
+        "gene": "CYP1B1"
+    },
+    "rs2617266": {
+        "phenotype": "Estrogen Metabolism - 1A Dominant",
+        "pathogenic": ["CT", "TT"],
+        "gene": "CYP1B1"
+    },
+    "rs28936700": {
+        "phenotype": "Estrogen Metabolism - 1A Dominant",
+        "pathogenic": ["AG", "AA"],
+        "gene": "CYP1B1"
+    },
+    "rs28936701": {
+        "phenotype": "Estrogen Metabolism - 1A Dominant",
+        "pathogenic": ["CT", "GG"],
+        "gene": "CYP1B1"
+    },
+    "rs55771538": {
+        "phenotype": "Estrogen Metabolism - 1A Dominant",
+        "pathogenic": ["GT", "TT"],
+        "gene": "CYP1B1"
+    },
+    "rs79204362": {
+        "phenotype": "Estrogen Metabolism - 1A Dominant",
+        "pathogenic": ["CT", "TT"],
+        "gene": "CYP1B1"
+    },
+    "rs9282671": {
+        "phenotype": "Estrogen Metabolism - 1A Dominant",
+        "pathogenic": ["AA", "AT"],
+        "gene": "CYP1B1"
+    },
+    "rs12720461": {
+        "phenotype": "Estrogen Metabolism",
+        "pathogenic": ["CT", "TT"],
+        "gene": "CYP1A2"
+    },
+    "rs28399424": {
+        "phenotype": "Estrogen Metabolism",
+        "pathogenic": ["CT", "TT"],
+        "gene": "CYP1A2"
+    },
+    "rs72547513": {
+        "phenotype": "Estrogen Metabolism",
+        "pathogenic": ["AC"],
+        "gene": "CYP1A2"
+    },
+    "rs762551": {
+        "phenotype": "Estrogen Metabolism",
+        "pathogenic": ["AA", "AC"],
+        "gene": "CYP1A2"
+    },
+    "rs776746": {
+        "phenotype": "Estrogen Metabolism",
+        "onForwardStrand": false,
+        "pathogenic": ["GG"],
+        "gene": "CYP3A5,ZSCAN25"
+    },
+    "rs3064744": {
+        "phenotype": "Estrogen Metabolism - 1B Dominant",
+        "pathogenic": ["TA;TA"],
+        "gene": "UGT1A*28"
+    },
+    "rs4570625": {
+        "phenotype": "Estrogen Metabolism - 1A Dominant",
+        "pathogenic": ["GG", "GT"],
+        "gene": "TPH2"
+    },
+    "rs120074176": {
+        "phenotype": "Estrogen Metabolism",
+        "pathogenic": ["CT"],
+        "gene": "TPH2"
+    },
+    "rs1048943": {
+        "phenotype": "Estrogen Metabolism",
+        "pathogenic": ["GG", "AG"],
+        "gene": "CYP1A1",
+        "notes": "increases catalytic activity https://www.sciencedirect.com/science/article/abs/pii/S2452014421003642"
+    }
+}
+
